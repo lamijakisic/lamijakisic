@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I am Lamija 👋
+<h3>About me: <hr></h3>
+👨‍💻 third year Software Engineering student @ International University Sarajevo<br>
+📌 Sarajevo<br>
+📲 Connect with me on <a href="https://linkedin.com/in/lamijakišić target="_blank">LinkedIn</a>
+
 
 <!--
 **lamijakisic/lamijakisic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
