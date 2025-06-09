@@ -2,7 +2,7 @@
 <h3>About me: <hr></h3>
 👨‍💻 third year Software Engineering student @ International University Sarajevo<br>
 📌 Sarajevo<br>
-📲 Connect with me on <a href="https://linkedin.com/in/lamijakišić target=_blank">LinkedIn</a>
+📲 Connect with me on <a href="https://linkedin.com/in/lamijakišić" target=_blank>LinkedIn</a>
 
 
 <!--
